@@ -1,0 +1,32 @@
+.catalog {
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-group {
+    display: flex;
+    gap: 20px;
+}
+
+.c-btn {
+    padding: 15px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+    color: #bdbdbd;
+    background-color: #fff;
+    border: 1px solid #bdbdbd;
+    transition: 0.25s;
+}
+.c-btn.active {
+    color: #fff;
+    background-color: #8749FC;
+    border-color: #8749FC;
+}
+.c-btn:hover {
+    color: #fff;
+    background-color: #8749FC;
+    border-color: #8749FC;
+}

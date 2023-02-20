@@ -11,3 +11,21 @@ body {
 ul {
     list-style: none;
 }
+
+button {
+    cursor: pointer;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.col-2s {
+    width: 16.666%;
+}
+
+
+.col-8s {
+    width: calc(100vw - 300px);
+    padding: 30px;
+}

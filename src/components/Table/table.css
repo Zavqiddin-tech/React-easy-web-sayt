@@ -1,0 +1,28 @@
+.table-wrap {
+    padding-top: 20px;
+}
+.square {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+}
+.square-img {
+    width: 28px;
+    height: 28px;
+    margin-right: 10px;
+    background-color: #bdbdbd;
+    border-radius: 5px;
+}
+
+.td-wrapp {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+.td-line {
+   text-align: center;
+}
+.td-draft {
+    color: #5fb9f5;
+}
